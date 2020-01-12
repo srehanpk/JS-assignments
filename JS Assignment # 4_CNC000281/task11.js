@@ -10,7 +10,6 @@ var l = input.length;
 
 var sum = 0;
 
-var total = sum/l;
 
 
 for (var i = 0; i < input.length; i++){
