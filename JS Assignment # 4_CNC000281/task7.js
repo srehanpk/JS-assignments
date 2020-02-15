@@ -28,7 +28,7 @@ if (find!==-1 && find!==count1[count1.length-1]){
 
 var count = count1.length;
 
-console.log(count);
+
 
 document.write("<h3> There are "+count+" accurence of word "+ip+"</h3>")
 
