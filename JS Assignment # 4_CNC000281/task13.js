@@ -15,3 +15,4 @@ document.write("<br><br><b> Elapsed minutes since January 1, 1970 : </b>" + min)
 console.log(min);
 
 
+

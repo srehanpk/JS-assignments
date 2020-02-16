@@ -1,5 +1,5 @@
 
-var amount = prompt("Enter withdrawl amount\n 100-999990");
+var amount = prompt("Enter withdrawl amount\n 100-99990");
 
 document.write("Withdrawl amount = Rs "+ amount);
 

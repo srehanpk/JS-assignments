@@ -1,7 +1,7 @@
 
   x=prompt("Input first number");
   
-  oper=prompt("Type an operator");
+  oper=prompt("Type an operator + - / x");
   
   y=prompt("Input second number");
 

@@ -8,5 +8,5 @@ function area(w){
 
 var a =area(18);
 
-
-document.write("Area of ractangle  =  "  + a);
+document.write("Hight = 12 <br> Width = 18")
+document.write("<br><br>Total area of ractangle  =  "  + a);

@@ -1,5 +1,7 @@
 
-var color = prompt("Enter one color of traffic signal ", " ");
+var color1 = prompt("Enter one color of traffic signal ", " ");
+
+var color = color1.toLowerCase();
 
 if (color === "red") {alert(" You Must Stop"); document.write("<h1>Red = You Must Stop</h1>");}
 

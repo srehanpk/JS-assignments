@@ -1,4 +1,4 @@
-var input = prompt("Enter Number");
+var input = prompt("Enter Number with Dacimal Places");
 
     document.write("User input is: "+ input);
 

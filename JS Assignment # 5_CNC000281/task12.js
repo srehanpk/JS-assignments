@@ -4,7 +4,7 @@ function guessGame(){
 	var randomNumber = Math.random();
 	var range = randomNumber*10+1;
 	var num = Math.floor(range);
-
+	
 	var input = prompt("Guess the number\n1 to 10");
 
 	var i = 0;

@@ -9,4 +9,4 @@ console.log(day);
 
 if (day < 16) {document.write("<h3>First fifteen days of the month</h3>");} 
 
-	else {document.write("Last days of month");}
+	else {document.write("<br> Last days of month");}

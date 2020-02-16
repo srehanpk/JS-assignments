@@ -1,7 +1,7 @@
 
 
 var a = [20,53,78,4,91,12];
-console.log("a before "+a)
+document.write("Array before a = ["+a+"]")
 var b = [];
 
 var c = [];
@@ -27,7 +27,7 @@ a[b] = c;
 }
 
 console.log("a after "+a);
-document.write("Now the array is like: "+a);
+document.write("<br> Now the array is like: a = ["+a+"]");
 console.log(b);
 console.log(c);
 

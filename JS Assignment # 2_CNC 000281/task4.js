@@ -1,4 +1,4 @@
-var s = prompt("Input your total marks?");
+var s = prompt("Input your total marks \n Out of 300");
 
 var tm = 300;
 
